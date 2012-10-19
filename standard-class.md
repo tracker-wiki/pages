@@ -8,6 +8,7 @@
 
 ## Sections
 * [[Standard Class on Knives]]
+* [[Standard Class on Knife Techniques]]
 
 ## Unattributed Quotes
 * "You've got to go to know"
