@@ -1,3 +1,17 @@
+## TODO
+* Add images of blade shapes
+* Add images of tang types
+* Add images of blade geometries
+* Add image of ideal survival knife
+* Add cross cut image of blade sharpening
+
+## Knife Safety
+* Never point cutting edge towards yourself or others
+* 'Blood Bubble' -- the area around you when holding the blade at arms length. Stay out unless wielding the knife.
+* Be aware of what's around you while cutting
+* Keep knives sheathed unless in use
+* __A sharp knife is a safe knife__
+
 ## Blade Shapes
 
 ### List of Shapes
@@ -116,6 +130,9 @@ Carbon or stainless steel
 * 440A
 * 420
 
+### Damascus Steel
+A mixture of high and low carbon steel layered through folding and welding. Higher carbon steel is harder so as small layers are removed you are left with an ultra-fine/sharp high-carbon blade edge. This is a similar process to the art of making samurai swords where the main difference is in the folding technique.
+
 ## An Ideal Survival Knife
 * Full tang
 * 2.5" to 5" blade length
@@ -123,8 +140,12 @@ Carbon or stainless steel
 * Tapered or semi hollow ground blade geometry
 * High-carbon steel
 
-## TODO
-* Add images of blade shapes
-* Add images of tang types
-* Add images of blade geometries
-* Add image of ideal survival knife
+## Knife Sharpening
+Knives typically come somewhat dull out of the box. This means you'll apply more pressure, have less control, and are prone to injury.
+
+The general idea is to slide blade along the sharpening stone removing steel from both sides and making it steep. Start w/ a 25 degree angle and finish with a 30 degree angle. Create a burr on one side and alternate back and forth with finer and finer stones to straighten out the blade.
+
+Blades can be sharpened dry or wet depending on the preference, necessity, and material.
+
+## Books
+* The Razors Edge Book of Sharpening
