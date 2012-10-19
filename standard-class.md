@@ -3,6 +3,9 @@
 * Take what you learned and teach one more person
 * Prove the school right or wrong by what you do with this knowledge
 
+## Days
+* [[Standard Class Day 1]]
+
 ## Sections
 * [[Standard Class on Knives]]
 
