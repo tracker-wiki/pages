@@ -5,6 +5,7 @@
 
 ## Days
 * [[Standard Class Day 1]]
+* [[Standard Class Day 2]]
 
 ## Sections
 * [[Standard Class on Knives]]
